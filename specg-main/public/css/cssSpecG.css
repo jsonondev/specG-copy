@@ -1,0 +1,110 @@
+.landing {
+    background-image: url("../images/bgLogin.jpg");
+    background-size: cover;
+}
+
+.loginContent {
+    margin-top: 80px; 
+}
+
+.loginContent img{
+    width: 510px;
+}
+
+.registerContent {
+    margin-top: 50px; 
+}
+.registerContent img{
+    height: 200px;
+}
+
+.webpage {
+    background-image: url("../images/bgPages.jpg");
+    background-size: cover;
+}
+
+.topnav {
+    background-color: rgb(51, 50, 50);
+    padding: 0px;
+}
+
+.topnav li {
+/*  width: 130px;*/
+    text-align: center;
+}
+
+.topnav a {
+    color: white;
+ }
+
+.nav-link.btnNav.active,
+.nav-link.btnNav:hover {
+    color: black;
+    background-color: skyblue;
+}
+
+
+.headerContent img{
+    border: 0px solid black;
+}
+
+#nav-logout {
+    color: red;
+}
+
+#nav-logout {
+    width: auto;
+}
+
+#nav-logout:hover {
+    color:white;
+    background-color: red;
+}
+
+.tableList {
+    min-width: 500px;
+    max-height: 600px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.btnMain:hover {
+    border: 1px solid white;
+    text-decoration: underline;
+}
+
+.taskCard {
+    border: 1px solid skyblue;
+}
+
+.taskCard .card-header,
+.taskCard .card-footer {
+    background-color:  rgb(212, 231, 237);
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.modalSpecG .modal-content{
+    border: 1px solid skyblue;
+}
+.modalSpecG .modal-header,
+.modalSpecG .modal-footer{
+    background-color: skyblue;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.btn-close {
+    margin: 1px;
+}
+
+.alert {
+    padding: 2px 2px 2px 10px;
+}
+
